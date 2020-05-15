@@ -1,2 +1,0 @@
-# estoque-de-carne
-Trabalho 
